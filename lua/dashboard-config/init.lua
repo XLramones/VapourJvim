@@ -1,4 +1,4 @@
-vim.g.dashboard_custom_header1 ={
+vim.g.dashboard_custom_header ={
 [[         _nnnn_          ]],
 [[        dGGGGMMb         ]], 
 [[       @p~qp~~qMb        ]],
